@@ -1,0 +1,23 @@
+body {
+    background-color: blue;
+}
+
+.title {
+    background-color: white;
+}
+
+div {
+    text-align: center;
+}
+
+.type {
+    background-color: red;
+}
+
+.info {
+    background-color: gold;
+}
+
+.details {
+    text-align: center;
+}
